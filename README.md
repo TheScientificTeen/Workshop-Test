@@ -22,6 +22,9 @@ Summary in 50 Words about your project
 
 <ANSWER AS PARAGRAPH / BULLET POINTS>
 
+* *Comments?*
+
+<ANSWER AS PARAGRAPH / BULLET POINTS>
 
 ### Update 1 - 8 Hours Mark
 * *Have you made any new Ideas?*
@@ -41,6 +44,10 @@ Summary in 50 Words about your project
 <ANSWER AS PARAGRAPH / BULLET POINTS>
 
 * *What language (programming) are you using?*
+
+<ANSWER AS PARAGRAPH / BULLET POINTS>
+
+* *Comments?*
 
 <ANSWER AS PARAGRAPH / BULLET POINTS>
 
