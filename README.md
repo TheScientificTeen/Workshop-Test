@@ -1,15 +1,18 @@
 # Name of Team
-Summary in 50 Words about Team
 
-### Team Members
+Summary in 50 Words about your project
+
+## Team Members
+
 10 Words about each Team Member
 
-### Updates
-#### **Final Update - 24 Hours Mark**
+## Updates
+
+### Final Update - 24 Hours Mark
 500 Words about this
 
 
-#### **Update 2 - 16 Hours Mark**
+### Update 2 - 16 Hours Mark
 **Have you made any new Ideas?**
 <ANSWER>
 
@@ -17,7 +20,7 @@ Summary in 50 Words about Team
 <ANSWER AS PARAGRAPH / BULLET POINTS>
 
 
-#### **Update 1 - 8 Hours Mark**
+### Update 1 - 8 Hours Mark
 **Have you made any new Ideas?**
 <ANSWER>
 
