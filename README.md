@@ -13,32 +13,42 @@ Summary in 50 Words about your project
 
 
 ### Update 2 - 16 Hours Mark
-**Have you made any new Ideas?**
-<ANSWER>
+*Have you made any new Ideas?**
 
-**Could you list some more ideas you plan to implement in your project?**
+<ANSWER />
+
+*Could you list some more ideas you plan to implement in your project?*
+
 <ANSWER AS PARAGRAPH / BULLET POINTS>
 
 
 ### Update 1 - 8 Hours Mark
-**Have you made any new Ideas?**
-<ANSWER>
+*Have you made any new Ideas?*
 
-**As a team, write a brief paragraph about what problem your team is trying to solve?**
-<ANSWER>
+<ANSWER />
 
-**What sub-topic has your team chosen? Or did you choose a topic not within the specified topics?**
-<ANSWER>
+*As a team, write a brief paragraph about what problem your team is trying to solve?*
 
-**Could you list the ideas you plan to implement in your project?**
+<ANSWER />
+
+*What sub-topic has your team chosen? Or did you choose a topic not within the specified topics?*
+
+<ANSWER />
+
+*Could you list the ideas you plan to implement in your project?**
+
 <ANSWER AS PARAGRAPH / BULLET POINTS>
 
-**What language (programming) are you using?**
-<ANSWER>
+*What language (programming) are you using?*
+
+<ANSWER />
 
 ### Links
+
 **Presentation Link** : 
+
 **Video Link (OPTIONAL)** :
 
 ### References and Acknowledges
+
 Any references taken?
